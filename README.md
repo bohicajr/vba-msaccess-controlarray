@@ -30,6 +30,10 @@ Here is a list of the controls that can be added to the control array collection
 
 Microsoft Access.  Tested to work on Microsoft Access 2010-2016. This version will not work on any other office product, see [vba-controlarray](https//github.com/bohicajr/vba-controlarray) for code compatible with the rest of Microsoft Office.
 
+
+### Quick Start
+Download the blank template from the quickstart folder [Here](https://github.com/bohicajr/vba-msaccess-controlarray/blob/master/quickstart/VBA-MSAccess-ControlArray_Blank.accdb). Ensure that you have macros enabled.
+
 ### Manual Install
 
 Download all the .cls files from github and import the files into your VBA project.
