@@ -1,6 +1,13 @@
 # VBA MSAccess Control Array Calculator Example
 
-Demonstrate how the control array can drastically cut down lines of code by consolidating common events.  Simply download the Access file and run the form frmCalculator.
+Demonstrate how the control array can drastically cut down lines of code by consolidating common events.  Simply download the Access file and run the form frmCalculator.  Alternatively you can import the frmCalculator.txt file by using the following command on the Visual Basic Immediate Window.
+If you choose to manually import the file, ensure that you have all the ControlArray classes in [src](https://github.com/bohicajr/vba-msaccess-controlarray/tree/master/src).
+
+'''VBA
+Application.LoadFromText acForm, "frmCalculator", "PATH\frmCalculator.txt"
+'''
+
+Note path is where you saved the frmCalculator.txt file on your machine.
 
 ### How it works
 
