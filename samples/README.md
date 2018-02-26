@@ -172,7 +172,7 @@ End Sub
 ```
 
 The point of this demonstration is not the logic for key validation, but to show that we can drastically cut down on the number of events we need to code.  There are 10 numeric textboxes, with three events, in traditional fashion we would have 30 events to code, now only three.
-There are also 10 alpha textboxes, with two events, that would be 20 more events to code.  So we've 50 events down to 5!
+There are also 10 alpha textboxes, with two events, that would be 20 more events to code.  So we've cut 50 events down to 5!
 
 
 
